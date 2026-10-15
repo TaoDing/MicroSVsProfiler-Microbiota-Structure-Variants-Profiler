@@ -1,0 +1,3 @@
+sample_id	reads_prefix	icra_jsdel
+SAMPLE_A	/path/to/clean/SAMPLE_A_1_kneaddata_paired	/path/to/results/step3/icra/SAMPLE_A/ACTUAL_ICRA_OUTPUT.jsdel
+SAMPLE_B	/path/to/clean/SAMPLE_B_1_kneaddata_paired	/path/to/results/step3/icra/SAMPLE_B/ACTUAL_ICRA_OUTPUT.jsdel

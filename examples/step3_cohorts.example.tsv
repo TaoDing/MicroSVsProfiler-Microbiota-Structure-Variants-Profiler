@@ -1,0 +1,3 @@
+cohort	perfile_glob	min_samp_cutoff
+COHORT_A	/path/to/results/step3/perfile/COHORT_A_*.PerFile.jsdel	75
+COHORT_B	/path/to/results/step3/perfile/COHORT_B_*.PerFile.jsdel	75
