@@ -1,0 +1,6 @@
+SV_ID	Type	Knum	Taxon	Pathway
+vSV_G1_regionA	VSGV	K00001	Species_A	Metabolism
+vSV_G1_regionA	VSGV	K00002	Species_A	Metabolism
+vSV_G2_regionB	VSGV	K00003	Species_B	Transport
+dSV_G1_regionC	DSGV	K00004	Species_A	Transport
+dSV_G3_regionD	DSGV	K00005	Species_C	Metabolism
