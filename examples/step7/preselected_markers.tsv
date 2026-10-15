@@ -1,0 +1,12 @@
+feature_set	feature
+Species	Species__species1
+Species	Species__species2
+Species	Species__species3
+SV	dSV__dsv1
+SV	dSV__dsv2
+SV	vSV__vsv1
+SV	vSV__vsv2
+Combined	Species__species1
+Combined	Species__species2
+Combined	dSV__dsv1
+Combined	vSV__vsv1
